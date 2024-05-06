@@ -6,7 +6,9 @@ Keyword Search
 ![image](https://github.com/2072038/UTS-Web-Semantik/assets/71743235/ae183f08-09f6-477f-89b2-38c13f019db4)
 
 Category
-![image](https://github.com/2072038/UTS-Web-Semantik/assets/71743235/2afd0482-8223-4e31-8b2d-50989806fb93)
+![image](https://github.com/2072038/UTS-Web-Semantik/assets/71743235/8d32dd3a-728c-47b4-91ca-9418aaf3826f)
+
+
 
 
 
